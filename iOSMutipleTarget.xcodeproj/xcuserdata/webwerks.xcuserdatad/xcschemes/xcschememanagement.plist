@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TargetTwo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>iOSMutipleTarget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,7 +22,47 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>E91537611F41B43400DE787F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E915377F1F41B63200DE787F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>E9F13A831F41988700B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13AA11F41989500B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13ABC1F4198A100B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13AEA1F41AE7000B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13AFB1F41AE9500B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13B0F1F41AFC900B8851F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9F13B2A1F41B0E700B8851F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

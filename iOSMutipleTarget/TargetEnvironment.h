@@ -10,4 +10,7 @@
 
 @interface TargetEnvironment : NSObject
 
++ (TargetEnvironment *) sharedEnvironment;
+- (void) setTargetAndEnsureProperFlags;
+
 @end
